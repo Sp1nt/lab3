@@ -1,0 +1,32 @@
+body, p {
+    margin: 0;
+    padding: 0;
+}
+.background  {
+    background-image: url('https://kalix.club/uploads/posts/2022-12/1671576342_kalix-club-p-oboi-serie-geometriya-krasivo-5.jpg');
+    background-attachment: fixed; 
+    background-size: cover;
+    font: 16px Arial, sans-serif;
+}
+
+.container {
+    background: #1c1b1b6a;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.head-content {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.head-center {
+    text-align: center;
+}
+
+.head-text p:not(:last-child) {
+    margin-bottom: 10px;
+}
